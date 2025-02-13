@@ -1,0 +1,6 @@
+streamlit_project/
+|--database.db #(Created automatically)
+|--app.py
+|--styles.css
+
+pip install streamlit streamlit-authenticator sqlite3 pandas bcrypt
